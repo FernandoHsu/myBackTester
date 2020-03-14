@@ -1,6 +1,4 @@
 """
-Source of code: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-V
-
 Portfolio do the following things:
 * generate signal by SignalEvent objects: These signal are used by a portfolio object in order to make decisions on whether to send orders
 * manage order by OrderEvent objects: optimize portfolio by risk factors and position sizing techniques

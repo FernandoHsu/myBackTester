@@ -1,11 +1,4 @@
 """
-Source: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-VIII
-See also
-- download Trader Workstation and create an Interactive Brokers demo account
-  (http://www.quantstart.com/articles/Interactive-Brokers-Demo-Account-Signup-Tutorial)
-- how to create a basic interface to the IB API using IbPy
-  (http://www.quantstart.com/articles/Using-Python-IBPy-and-the-Interactive-Brokers-API-to-Automate-Trades)
-
 
 The essential idea of the IBExecutionHandler class is to receive OrderEvent instances from the events queue
 and then to execute them directly against the Interactive Brokers order API using the IbPy library.

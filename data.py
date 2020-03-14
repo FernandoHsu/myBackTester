@@ -1,6 +1,4 @@
 """
-This code is from: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-IV
-
 DataHandler class
 This is a class hierarchy that allows both historic backtesting and live trading, via the same class interface
 """

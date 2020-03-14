@@ -1,5 +1,4 @@
 """
-This code is from: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-IV
 
 Strategy objects take market data as input and produce trading signal events as output
 A Strategy object encapsulates all calculations on market data that generate advisory signals to a Portfolio object.

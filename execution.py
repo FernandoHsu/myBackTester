@@ -1,5 +1,4 @@
 """
-Source: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-VI
 
 A class hierarchy that will represent a simulated order handling mechanism and
 ultimately tie into a brokerage or other means of market connectivity.

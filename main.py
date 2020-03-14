@@ -1,4 +1,3 @@
-### This code is referenced from: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I
 
 ### Declare the components with respective parameters
 bars = DataHandler(..)

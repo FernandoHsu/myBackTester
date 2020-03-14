@@ -1,5 +1,4 @@
 """
-This code is from: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-II
 
 MarketEvent
 This is triggered when the outer while loop begins a new "heartbeat".
